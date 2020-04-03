@@ -8,7 +8,7 @@ NOTE: the converted text may be to big for your screen, if so, zoom out in the t
 
 also, the module currently does NOT support 'other' symbols, like @, #, $, %, ^, and &. 
 
-The module can be installed with the setup.py provided, but be sure to do colorize.py first.
+The module can be installed with the setup.py provided, but be sure to do colorize.py first. Otherwise, the banner3D setup.py will throw an error.
 
 ## Dependencies:
 
