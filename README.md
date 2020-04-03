@@ -10,8 +10,7 @@ also, the module currently does NOT support 'other' symbols, like @, #, $, %, ^,
 
 The module can be installed with the setup.py provided, but be sure to do colorize.py first.
 
-Dependencies:
-========================
+## Dependencies:
 
 banner_3d.py:
 
